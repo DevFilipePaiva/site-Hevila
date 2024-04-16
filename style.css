@@ -177,6 +177,7 @@ section.especialidades{
     padding: 30px 4%;
 }
 
+
 section.especialidades .flex{
     align-items: center;
     gap: 30px;
@@ -184,6 +185,7 @@ section.especialidades .flex{
 
 .especialidades .especialidades-box{
     color: #606060;
+    text-align: center;
     font-size: 20px;
     padding: 30px;
     border-radius: 25px;
@@ -201,6 +203,10 @@ section.especialidades .flex{
     color: #fff;
     margin: 15px 0;
     text-align: center;
+}
+
+.especialidades .especialidades-box img{
+max-height: 70px;
 }
 
 section.especialidades .txt-inicial h1{
